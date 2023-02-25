@@ -1,7 +1,5 @@
 import Cocoa
 import FlutterMacOS
-import IOKit.ps
-import Foundation
 
 @NSApplicationMain
 class AppDelegate: FlutterAppDelegate {
